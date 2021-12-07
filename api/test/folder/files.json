@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "files": [
+        {
+            "raw": "folder",
+            "name": "folder",
+            "extension": "folder",
+            "type": "undefined"
+        },
+        {
+            "raw": "test.js",
+            "name": "test",
+            "extension": "javascript",
+            "type": "js"
+        },
+        {
+            "raw": "txt.txt",
+            "name": "txt",
+            "extension": "text",
+            "type": "txt"
+        }
+    ]
+}
